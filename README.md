@@ -6,10 +6,15 @@ De Montfort University, Dubai
 This project explores the application of digital forensic tools in identifying and analyzing cyber threats (e.g., phishing, unauthorized access) on a personal Windows machine. It evaluates the strengths and limitations of FTK Imager in real-world scenarios.
 # 2) Objectives 
 Detect data breaches and insider threats.
+
 Recover deleted and suspicious files.
+
 Investigate phishing incidents on social media.
+
 Evaluate FTK Imager's forensic capabilities.
+
 Propose improvements for forensic toolkits.
+
 # 3) Tools & Technologies
 FTK Imager v4.7.1.2
 
