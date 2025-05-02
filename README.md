@@ -12,9 +12,13 @@ Evaluate FTK Imager's forensic capabilities.
 Propose improvements for forensic toolkits.
 # Tools & Technologies
 FTK Imager v4.7.1.2
+
 Belkasoft RAM Capturer
+
 Windows Event Viewer
+
 Event Log (.evtx) Management
+
 # Use Cases
 ![image](https://github.com/user-attachments/assets/eeb05dca-efc8-40d4-868f-2a2e10d8dd23)
 
