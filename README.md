@@ -19,8 +19,22 @@ Windows Event Viewer
 
 Event Log (.evtx) Management
 
-# Use Cases
+# Use Cases Implemeneted 
 ![image](https://github.com/user-attachments/assets/eeb05dca-efc8-40d4-868f-2a2e10d8dd23)
+
+# Test Plan & Results
+![image](https://github.com/user-attachments/assets/559439bf-4352-406b-b9a5-61df9f0cd8e7)
+
+# Limitations
+FTK Imager lacks built-in phishing email analysis capabilities.
+
+Tested on personal systems; not enterprise-scaled.
+
+
+
+
+
+
 
 
 
